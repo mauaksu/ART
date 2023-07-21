@@ -1,3 +1,3 @@
-# ART
+# Atomic Red Team
 
-https://www.cyberhuntingguide.net/atomic-red-team.html
+Install scripts for Atomic Red Team
